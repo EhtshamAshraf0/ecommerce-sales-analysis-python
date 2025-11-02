@@ -11,15 +11,17 @@ Using Python for data cleaning, exploration, and visualization, the goal is to h
 - **pandas** – data cleaning and manipulation  
 - **numpy** – numerical operations  
 - **matplotlib & seaborn** – data visualization  
-- **Jupyter Notebook** – interactive analysis environment  
+- **Jupyter Notebook** – interactive analysis environment
+
+## Data Files Link : https://drive.google.com/drive/folders/1HZj6CWby9nLMV1s8gglaYp1cymoXDXIV?usp=drive_link
 
 ## 📁 Project Structure
 ```
 Ecommerce-Sales-Analysis/
 │
 ├── data/
-│   ├── data.csv
-│   └── Clean_Sales_Data/
+│   ├── LINK : https://drive.google.com/drive/folders/1HZj6CWby9nLMV1s8gglaYp1cymoXDXIV?usp=drive_link
+│   
 │
 ├── notebooks/
 │   └── sales_analysis.ipynb
