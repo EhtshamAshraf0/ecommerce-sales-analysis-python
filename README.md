@@ -13,12 +13,13 @@ Using Python for data cleaning, exploration, and visualization, the goal is to h
 - **matplotlib & seaborn** – data visualization  
 - **Jupyter Notebook** – interactive analysis environment  
 
-📁 Project Structure
+## 📁 Project Structure
+```
 Ecommerce-Sales-Analysis/
 │
 ├── data/
-│   └──data.csv
-│   └──Clean_Sales_Data
+│   ├── data.csv
+│   └── Clean_Sales_Data/
 │
 ├── notebooks/
 │   └── sales_analysis.ipynb
@@ -34,8 +35,7 @@ Ecommerce-Sales-Analysis/
 │   └── Metric_All_vs_Normal.png
 │
 └── README.md
---
-
+```
 ## 🧹 Data Cleaning & Preparation
 - Removed duplicate and missing values  
 - Standardized column names and data types  
@@ -75,6 +75,7 @@ Key visualizations generated using Matplotlib and Seaborn:
 - **Metrics: All vs. Normal Comparison**
 
 📁 *Visuals are included in the “visuals” folder.*
+```
 visuals/
 ├── Monthly_Revenue.png
 ├── Monthly_Revenue_Normal_Vs_Outliers.png
@@ -84,7 +85,7 @@ visuals/
 ├── Return_Rate_By_Month.png
 ├── RFM.png
 └── Metric_All_vs_Normal.png
---
+```
 
 🚀 How to Run This Project
 
