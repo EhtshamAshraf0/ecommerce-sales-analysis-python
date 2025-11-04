@@ -112,7 +112,7 @@ Run all cells to reproduce the analysis and visualizations.
 ✍️ Author
 
 Ehtsham Ashraf
-📊 Data Analyst | Python | Excel | Power BI
+📊 Data Analyst | Python | SQL | Excel | Power BI
 
 ### 🔗 LinkedIn : https://www.linkedin.com/in/ehtsham-ashraf-61b1b8342/
 ### 🔗💻 GitHub : https://github.com/EhtshamAshraf0
